@@ -5,6 +5,10 @@
 1. Docker
 2. A Github Account
 
+## Goal
+
+Find the common followers between two Github users.
+
 ## Test Cases
 
 1. http://localhost:8080/common_followers?username1=657dfee0-116d-44b2-aec7-7e7f454ddaca&username2=benoitdelorme (non-existant user with existing user)
