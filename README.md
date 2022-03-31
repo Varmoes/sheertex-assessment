@@ -25,4 +25,3 @@ bash build_and_start.sh
 This will build the Docker image and start a fresh container. After the script stops, your container should be ready to be used!
 
 To validate the web server is up and running, head to [http://localhost:8080/health](http://localhost:8080/health) to verify the uptime. You should receive a JSON response with a float value representing the number of seconds the server has been up.
-# sheertex-assessment
